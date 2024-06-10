@@ -1,4 +1,4 @@
 import streamlit as st
 
 def app():
-    st.title('Applikasi Prediksi Penyakit Batu Ginjal')
+    st.title('Aplikasi Prediksi Penyakit Batu Ginjal')
